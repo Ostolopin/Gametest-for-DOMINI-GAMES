@@ -1,0 +1,8 @@
+# ninja log v5
+5	50	7594314002352266	CMakeFiles/Gametest.dir/ChessPiece.cpp.obj	7b55df54669c94b7
+7	752	7594314009365216	CMakeFiles/Gametest.dir/Player.cpp.obj	5066d9f394c52e0a
+12	836	7594314010205212	CMakeFiles/Gametest.dir/Board.cpp.obj	e1b82b09dc74bdf9
+14	914	7594314010985208	CMakeFiles/Gametest.dir/Game.cpp.obj	f3fbd35d1b032432
+2	978	7594314011625213	CMakeFiles/Gametest.dir/Gametest.cpp.obj	46ab55fd47b5c802
+10	1346	7594314015287679	CMakeFiles/Gametest.dir/AIPlayer.cpp.obj	5bd04dbb10fc2cee
+1346	1769	7594314016658556	Gametest.exe	851f9e68f8522d09

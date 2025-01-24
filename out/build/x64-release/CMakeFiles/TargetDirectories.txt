@@ -1,0 +1,3 @@
+C:/Users/artso/source/repos/Gametest/out/build/x64-release/CMakeFiles/Gametest.dir
+C:/Users/artso/source/repos/Gametest/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/artso/source/repos/Gametest/out/build/x64-release/CMakeFiles/rebuild_cache.dir
